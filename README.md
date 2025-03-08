@@ -1,4 +1,4 @@
-# Bank Management System – OOP Project - NICHOLAS PEREZ | 
+# Bank Management System – OOP Project - NICHOLAS PEREZ | Ricky Franco
 
 ## 1. Project Overview
 
